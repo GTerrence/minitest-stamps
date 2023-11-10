@@ -7,8 +7,8 @@
 
 import Foundation
 
-DisplayNumbers().execute()
-//await WeatherForecast().execute()
+//DisplayNumbers().execute()
+await WeatherForecast().execute()
 
 
 
